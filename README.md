@@ -99,4 +99,4 @@ A assinatura é gerada usando APIs CMS/PKCS#7 do .NET.
 
 Se um portal exigir regras CAdES muito específicas, como atributos avançados obrigatórios, pode ser necessário validar o arquivo assinado no ambiente oficial ou adaptar a camada de assinatura.
 
-![Tela do Assinador](docs/print tela inicial.png)
+![Tela do Assinador](docs/print-tela-inicial.png)
