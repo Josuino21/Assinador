@@ -18,14 +18,10 @@ Aplicativo Windows para assinar documentos PDF e gerar arquivos `.p7s` ou `.pdf.
 
 ## Requisitos Para Uso
 
-O executável final é portátil/self-contained.
 
-Você não precisa instalar .NET no computador para usar o arquivo:
-
-```text
-assinador_pmenos.exe
+Você não precisa instalar .NET no computador para usar o assinador
 Como Usar
-Abra assinador_pmenos.exe.
+Abra o assinador_pmenos.exe.
 Clique em Adicionar PDFs.
 Selecione um ou mais arquivos PDF.
 Escolha a pasta de saída.
@@ -102,3 +98,5 @@ Limitações
 A assinatura é gerada usando APIs CMS/PKCS#7 do .NET.
 
 Se um portal exigir regras CAdES muito específicas, como atributos avançados obrigatórios, pode ser necessário validar o arquivo assinado no ambiente oficial ou adaptar a camada de assinatura.
+
+![Tela do Assinador](docs/print tela inicial.png)
